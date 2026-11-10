@@ -2,7 +2,7 @@
 
 I'm a Computer Science and Engineering student with frontend internship experience. I build web projects and work with JavaScript and Python.
 
-[Explore my portfolio](https://github.com/momo-bou/My-Protfolio)
+[View my live portfolio](https://momo-bou.github.io/My-Protfolio/) | [Portfolio source](https://github.com/momo-bou/My-Protfolio)
 
 ## Featured projects
 
